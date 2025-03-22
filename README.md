@@ -9,3 +9,4 @@ In this mini project, two classes are created to manage a Software company's ord
 - __init__()
 - class methods
 - decorator
+- using separate file for classes
